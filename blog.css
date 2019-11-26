@@ -1,0 +1,72 @@
+body {
+  background-color: #f77;
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+a:link,
+a:visited {
+  color: #a00;
+}
+a:hover {
+  color: #fca;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin: 10px 0;
+  padding: 0;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+h2 {
+  margin: 0 -20px 10px -20px;
+  padding: 5px 10px;
+  background-color: #379;
+  color: white;
+  font-size: 18px;
+}
+h3 {
+  margin: 0 -15px 10px -15px;
+  padding: 5px 10px;
+  background-color: #a55;
+  color: white;
+  font-size: 14px;
+}
+h4 {
+  margin: 0 -20px 10px -20px;
+  padding: 5px 10px;
+  background-color: rgb(97, 153, 51);
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+.new_post {
+  width: 500px;
+  margin: 0 auto 15px auto;
+  text-align: center;
+}
+.post {
+  width: 500px;
+  margin: 0 auto 15px auto;
+  padding: 0 20px 20px 20px;
+  background-color: #fb0;
+}
+.comment {
+  margin: 10px 0;
+  padding: 0 15px 15px 15px;
+  background-color: #da7;
+}
+.delete {
+  text-align: left;
+}
+.edit {
+  display: inline-block;
+  width: 75%;
+  text-align: center;
+}
+.commment_link {
+  text-align: right;
+}
